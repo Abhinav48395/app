@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+
+    background-color: white;
+    
+    
+
+}
+
+.border{
+    background-color: white;
+     position: relative;
+    left: 26%;
+    top: 50px;
+    width: 50%;
+    border-radius: 10px;
+    padding: 22px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.border input{
+    width: 70%;
+    padding: 15px;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+}
+
+
+.border button{
+    cursor: pointer;
+    width: 70%;
+    padding: 15px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    background-color:orangered ;
+    
+}
+
+
+a{
+    color: black;
+    font-weight: bold;
+}

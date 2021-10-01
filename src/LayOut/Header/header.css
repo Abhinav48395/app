@@ -1,0 +1,15 @@
+
+.log{
+    background-color: rgb(19, 128, 236);
+    border: none;
+    color: rgba(255, 255, 255, 0.582);
+    font-weight: bold;
+}
+
+.log:hover{
+    color: white;
+}
+
+.element:hover{
+    color: white !important;
+}
